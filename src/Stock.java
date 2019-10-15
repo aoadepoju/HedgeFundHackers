@@ -1,7 +1,7 @@
 /*
  * CSC 478 Capstone
  * HedgeFundHackers
- * Stock Class
+ * Stock class
  */
 import java.text.DecimalFormat;
 
